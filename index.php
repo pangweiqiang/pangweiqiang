@@ -9,6 +9,9 @@
 class index
 {
     function game(){
-        echo 'hello world';
+        echo 'hello world1';
+    }
+    public function show(){
+        echo 'eee';
     }
 }
