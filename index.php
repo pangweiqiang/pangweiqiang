@@ -14,4 +14,10 @@ class index
     public function show(){
         echo 'eee';
     }
+    public function updatepwq1(){
+     	echo 'pwq';
+    
+    }
+    
+    
 }
